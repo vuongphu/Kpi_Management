@@ -1,6 +1,8 @@
 Simple App Using React+TypeScript+Mobx+React Hook
+Only Source Front End
 ![alt text](https://github.com/vuongphu/Kpi_Management/blob/main/pic1.jpg)
-![alt text](https://github.com/vuongphu/Kpi_Management/blob/main/pic2.jpg(
+
+![alt text](https://github.com/vuongphu/Kpi_Management/blob/main/pic2.jpg)
 
 
 
