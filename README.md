@@ -1,3 +1,9 @@
+Simple App Using React+TypeScript+Mobx+React Hook
+https://github.com/vuongphu/Kpi_Management/blob/main/pic1.jpg
+https://github.com/vuongphu/Kpi_Management/blob/main/pic2.jpg
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
